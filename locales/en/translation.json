@@ -1,0 +1,81 @@
+{
+  "Dashboard": "Dashboard",
+  "menu": {
+    "label": {
+      "myProfile": "My Profile",
+      "logout": "Logout",
+      "jobsManagement": "Jobs management",
+      "workflowManagement": "Workflow management"
+    }
+  },
+  "common": {
+    "label": {
+      "view": "View",
+      "jobName": "Job name",
+      "skills": "Skills",
+      "startDate": "Start day",
+      "endDate": "End day",
+      "description": "Description",
+      "action": "Action",
+      "fullName": "Full Name",
+      "phoneNumber": "Phone Number",
+      "email": "Email",
+      "referer": "Referer",
+      "status": "Status",
+      "resume": "Resume",
+      "other": "Other",
+      "portfolio": "Portfolio",
+      "pass": "Pass",
+      "fail": "Fail",
+      "enter": "Enter {{name}}",
+      "fullTime": "Full Time",
+      "partTime": "Part Time",
+      "cancel": "Cancel",
+      "create": "Create",
+      "save": "Start",
+      "type": "Type",
+      "copyright": "All rights reserved. V. 15.1.2",
+      "department": "Department",
+      "duplicate": "Duplicate"
+    }
+  },
+  "page": {
+    "login": {
+      "title": "Login to account",
+      "label": {
+        "loginButton": "Login"
+      },
+      "message": {
+        "emailRequire": "Please enter your email",
+        "emailInvalid": "Your Email is not valid"
+      }
+    },
+    "jobs": {
+      "title": "Jobs management",
+      "titleDetail": "Detail",
+      "titleCreate": "Create new job",
+      "label": {
+        "addNew": "Add new",
+        "listJob": "List Job",
+        "listCandidate": "List Candidate"
+      }
+    }
+  },
+  "form": {
+    "jobs": {
+      "label": {
+        "workingTime": "Working Time",
+        "cityName": "City and province area",
+        "experience": "Experience",
+        "startDate": "Project start date",
+        "startDate_placeholder": "Select date",
+        "endDate": "Project end date",
+        "endDate_placeholder": "Select date",
+        "budget": "Budget",
+        "description": "Job Description",
+        "requirement": "Requirement",
+        "preferredQualifications": "Preferred Qualifications"
+      }
+    }
+  }
+}

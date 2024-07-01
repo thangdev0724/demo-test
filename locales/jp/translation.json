@@ -1,0 +1,77 @@
+{
+  "Dashboard": "ダッシュボード",
+  "menu": {
+    "label": {
+      "myProfile": "私のプロフィール",
+      "logout": "ログアウト",
+      "jobsManagement": "ジョブ管理",
+      "workflowManagement": "ワークフロー管理"
+    }
+  },
+  "common": {
+    "label": {
+      "jobName": "職種名",
+      "skills": "スキル",
+      "startDate": "開始日",
+      "endDate": "終了日",
+      "description": "説明",
+      "action": "アクション",
+      "fullName": "フルネーム",
+      "phoneNumber": "電話番号",
+      "email": "Eメール",
+      "referer": "リファラー",
+      "status": "状態",
+      "resume": "再開する",
+      "other": "他の",
+      "portfolio": "ポートフォリオ",
+      "pass": "合格",
+      "fail": "失敗",
+      "enter": "{{name}}を入力してください",
+      "fullTime": "フルタイム",
+      "partTime": "パートタイム",
+      "cancel": "キャンセル",
+      "create": "作成する",
+      "save": "始める",
+      "copyright": "All rights reserved. V. 15.1.2",
+      "department": "部署",
+      "duplicate": "複製する"
+    }
+  },
+  "page": {
+    "login": {
+      "title": "Login to account",
+      "label": {
+        "loginButton": "Login"
+      },
+      "message": {
+        "emailRequire": "Emailを入力してください",
+        "emailInvalid": "メールの形式が正しくありません"
+      }
+    },
+    "jobs": {
+      "title": "ジョブ管理",
+      "titleDetail": "仕事の詳細",
+      "titleCreate": "新しいジョブを作成する",
+      "label": {
+        "addNew": "新しく追加する",
+        "listJob": "List Job",
+        "listCandidate": "List Candidate"
+      }
+    }
+  },
+  "form": {
+    "jobs": {
+      "label": {
+        "workingTime": "労働時間",
+        "cityName": "市と県のエリア",
+        "experience": "経験",
+        "startDate": "プロジェクト開始日",
+        "endDate": "プロジェクト終了日",
+        "budget": "予算 (米ドル)",
+        "description": "仕事内容",
+        "requirement": "要件",
+        "preferredQualifications": "望ましい資格"
+      }
+    }
+  }
+}
